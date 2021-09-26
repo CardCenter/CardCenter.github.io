@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 El concepto de diferencial se basa en la derivada de una función y nos permite introducirlo como  la operación inversa a la integración. Representa el cambio que se da en una función $y=f(x)$ respecto a cambios en la variable independiente. 
 
 | Función |  Derivada|  Diferencial | 
-|---|---|---|
+|:---:|:---:|:---:|
 |  $y=x^{2} - 1$ |  $y'=2x$ | $dy=2x dx$  |
 |  $y=x^{2} - 1$ |  ${{dy} \over {dx}} =2x$ | $dy=2x dx$  |
 
