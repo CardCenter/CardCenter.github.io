@@ -1,6 +1,15 @@
 ---
-title: "About This Website"
+title: "Yu-gi-oh! Decks"
 ---
 
-More about this website.
+Deck dioses egipcios par 
 
+<img src="/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg" style="width:30%">
+
+This is Pete.
+
+<img src="/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg" style="width:30%">
+
+They are brothers!
+
+<img src="/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg" style="width:30%">
