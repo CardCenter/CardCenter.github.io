@@ -1,16 +1,11 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Card Center"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Pokemon"
       href: about.html
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    include:
-      after_body: footer.html
-    css: styles.css
+    - text: "Yu-Gi-Oh!"
+      href: about2.html
