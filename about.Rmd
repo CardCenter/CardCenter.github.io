@@ -3,3 +3,207 @@ title: "About This Website"
 ---
 
 More about this website.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## EL CONCEPTO DE DIFERENCIAL 5 Semestre ![](th.jpeg){width="10%," align="right"}
+
+El concepto de diferencial se basa en la derivada de una función y nos permite introducirlo como  la operación inversa a la integración. Representa el cambio que se da en una función $y=f(x)$ respecto a cambios en la variable independiente. 
+
+| Función |  Derivada|  Diferencial | 
+|---|---|---|
+|  $y=x^{2} - 1$ |  $y'=2x$ | $dy=2x dx$  |
+|  $y=x^{2} - 1$ |  ${{dy} \over {dx}} =2x$ | $dy=2x dx$  |
+
+
+Diferencial de una función. Se define como el producto de la derivada de una función por el incremento cuando éste tiende a cero, es decir $\Delta x \to 0$
+
+---
+
+![](th.jpeg){width="10%," align="right"}
+$\color{blue}{\text{Incremento de una Función.}}$ Si en una variable independiente $x$ cambia de un valor inicial $x_1$ a un valor final $x_2$, a la diferencia, $x_2-x_1$ se le llama incremento de la variable y se representa por la letra $(\Delta)$ antes de la variable. 
+
+Si el valor final es mayor que el inicial entonces el incremento es positivo; si final es menor que el inicial entonces el incremento (variación) es negativo y si ambos valores son iguales entonces el incremento es cero.  En cada caso se tendrá el signo correspondiente en el incremento.
+
+---
+
+![](th.jpeg){width="10%," align="right"}
+
+Incremento en una variable
+
+|  $x_1$ |  $x_2$ | $\Delta x$  |
+|---|---|---|
+|  6 |  9 | 3|
+|  5 |  2 | -3|
+|  4 |  4 | 0|
+
+Dada una funciónal $y=f(x)$ cambio sufrido por la función cuando cambia la variable $x$ se le conoce como incremento de la función.
+
+---
+
+## DIFERENCIALES - Aproximaciones ![](esfera.png){width="20%," align="right"}
+
+
+**$\color{blue}{\text{Ejemplo 1}}$**
+
+Una esfera de 20 cm de diámetro se cubre con una capa de pintura de un grosor de 0.2 cm. Determina el volumén de la capa de pintura, por incrementos, utilizando la diferencial.
+
+**$\color{blue}{\text{Solución}}$** 
+
+$\color{blue}{\text{1. Por incrementos}}$
+
+El volumen de la esfera es $V=\frac{4}{3} \pi r^{3}$
+
+El radio de la esfera sin pintar es de 10 cm, el volumen es 
+
+$V_1=\frac{4}{3} \pi r^{3} =\frac{4}{3} \pi (10)^{3} = 4188.79$ $cm^{3}$
+
+El radio de la esfera pintada es de 10.2 cm, el volumen es 
+
+$V_2=\frac{4}{3} \pi r^{3} =\frac{4}{3} \pi (10.2)^{3} = 4445.17$ $cm^{3}$
+
+---
+
+![](esfera.png){width="20%," align="right"}
+Con lo que tenemos los volumenes de antes $V_1$ y despues $V_2$ de pintar.
+
+$V_2 = 4445.17$ $cm^{3}$
+
+$V_1 = 4188.79$ $cm^{3}$
+
+Hacemos la diferencia de los volúmenes:
+
+$V_2-V_1=4445.17-4188.79=256.38$ $cm^{3}$
+
+La diferencia de volúmenes nos indica la cantidad de pintura que se va a utilizar.
+
+
+---
+
+![](esfera.png){width="20%," align="right"}
+
+$\color{blue}{\text{2. Utilizando la diferencial}}$ 
+
+El volumen de la esfera es $V=\frac{4}{3} \pi r^{3}$
+
+Su derivada es $V'=4 \pi r^{2}$ o lo que es lo mismo $\frac{dV}{dr}=4 \pi r^{2}$
+
+Utilizando la definición de diferencial:
+
++ $dV=f'(r)dr$
++ $dV=4 \pi r^{2}dr$
+
+Al sustituir los valores: $dV=4 \pi (10)^{2}(0.2)=251.32$ $cm^{3}$
+
+Como podemos observar en los resultados de los incisos, la diferencia es muy pequeña y cuando el incremento de la función es más pequeño el valor de la diferencial se acerca más al valor exacto.
+
+---
+
+## DIFERENCIALES - Aproximación de una raíz ![](raiz.jpg){width="100%," align="right"}
+
+**$\color{blue}{\text{Ejemplo 2}}$** 
+
+Utiliza la diferencial para obtener la raíz de 30, comprueba con tu calculadora el error generado.
+
+**$\color{blue}{\text{Solución}}$** 
+
+Buscamos un valor cercano a 30, que tenga raíz exacta, por ejemplo 25.
+
+La formula que representa esta situación es $y=\sqrt{x}$ o bien $y=x^{\frac{1}{2}}$.
+
+Si $x_1=25$, entonces $y=\sqrt{25}$, por lo que $y=5$.
+
+Obteniendo la diferencia: $dx=30-25=5$.
+
+---
+
+![](raiz.jpg){width="100%," align="right"}
+Para conocer el valor de $dy$, obtenemos la diferencial de la función. Calculando la derivada de $y=x^{\frac{1}{2}}$ y despejando $dy$ tenemos:
+
+$\frac {dy}  {dx}=\frac{1}{2} x^{-\frac{1}{2}} =\frac{1}{2 x^{\frac{1}{2}}}$
+
+$\frac {dy}  {dx}=\frac{1}{2 \sqrt{x}}$
+
+$dy=\frac{1}{2 \sqrt{x}} dx$
+
+Sustituyendo valores para obtener $dy$:
+
+$dy=\frac{dx}{2 (25)^{\frac{1}{2}}}=\frac{dx}{2 \sqrt{25}}$
+
+$dy=\frac{5}{2*5}=\frac{1}{2}=0.5$
+
+---
+
+![](raiz.jpg){width="100%," align="right"}
+
+Con lo que tenemos los siguientes valores:
+
+| Valor Final  |  Valor Inicial |  Diferencia | 
+|---|---|---|
+|  $x_2=30$ |  $x_1=25$ | $dx=5$    |
+|  $y_2= ?$ |  $y_1=5$ | $dy=0.5$    |
+
+El valor faltante $y_2$ es $5.5$, para que la diferencia de $y_2 - y_1 = dy$ por lo que la $\sqrt{30}=5.5$
+
+Calcule la $\sqrt{30}$ en la calculadora y obtenga el error que se comete usando la diferencial.
+
+---
+
+## DIFERENCIALES - Aproximación de una potencia ![](potencia.jpeg){width="100%," align="right"}
+
+
+**$\color{blue}{\text{Ejemplo 3}}$** 
+
+Utiliza la diferencial para obtener el valor de $2.1^3$.
+
+**$\color{blue}{\text{Solución}}$** 
+
+Buscamos un valor cercano a 2.1 del cual sea fácil obtener su cubo, en este caso 2.
+
+Representamos esta situación con la formula $y=x^3$ 
+
+Si $x_1=2$, entonces $y=8$.
+
+Obteniendo la diferencia: $dx=2.1-2=0.1$.
+
+---
+
+![](potencia.jpeg){width="100%," align="right"}
+
+Para encontrar el valor de $dy$, primero derivaremos la función $y=x^3$
+
+$\frac {dy}  {dx}=3 x^ 2$
+
+despejando $dy$ tenemos:
+
+$dy=3 x^ 2 dx$
+
+Sustituyendo valores para obtener $dy$:
+
+$dy=3 (2)^ 2 (0.1) = 1.2$
+
+Con lo que tenemos los siguientes valores:
+
+| Valor Final  |  Valor Inicial |  Diferencia | 
+|---|---|---|
+|  $x_2=2.1$ |  $x_1=2$ | $dx=0.1$    |
+|  $y_2= ?$ |  $y_1=8$ | $dy=1.2$    |
+
+---
+
+![](potencia.jpeg){width="100%," align="right"}
+Como sabemos que
+
+$y_2$ -$y_1$= $dy$
+
+depejamos $y_2$:
+
+$y_2$ = $dy$ + $y_1$= 1.2 + 8 = 9.2
+
+Con esto tenemos que el valor aproximado de elevar al cubo 2.1 es 9.2
+
+Usando la calculadora tenemos el tenemos que $2.1 ^ 3 = 9.261$
+
+La diferencia entre estos dos valores es de 0.061, este valor es el error que se comete por el uso de la diferencial.
