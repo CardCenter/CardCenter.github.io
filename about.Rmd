@@ -5,10 +5,11 @@ title: "About This Website"
 More about this website.
 
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## EL CONCEPTO DE DIFERENCIAL 5 Semestre ![](th.jpeg){width="10%," align="right"}
+## EL CONCEPTO DE DIFERENCIAL 5 Semestre ![](/home/ramon/Documentos/Calculo Integral 2021/htpres1/th.jpeg){width="10%," align="right"}
 
 El concepto de diferencial se basa en la derivada de una función y nos permite introducirlo como  la operación inversa a la integración. Representa el cambio que se da en una función $y=f(x)$ respecto a cambios en la variable independiente. 
 
