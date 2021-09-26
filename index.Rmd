@@ -2,4 +2,4 @@
 title: "Card Center"
 ---
 
-Hello, Website!
+Hola, Card!
