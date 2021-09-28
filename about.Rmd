@@ -15,8 +15,9 @@ title: "Pokemon TCG"
 
 | Item | Descripción| Precio | Stock |
 |:---|:---:|:---:|---:|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | Galarian Rapidash V Box  | \$ 450 |  <font size="2"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"}  | V Strikers Tin Tyranitar V | \$ 450 |  $\color{green}{\text{DISPONIBLE}}$ |
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> \$ 450 | <br> <font size="2"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> \$ 450 | <br> <font size="2"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents
 |  $y=x^{2} - 1$ |  ${{dy} \over {dx}} =2x$ | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/th.jpeg){width="100" align="right"}  |
 
 
