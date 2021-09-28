@@ -1,32 +1,20 @@
 ---
-title: "About This Website"
+title: "Pokemon TCG"
 ---
 
-More about this website.
+**Esta pagína es informativa y está actualizada al dia 28 de Septiembre de 2021**
+
+<br>
+
+<br>
+
+## POKEMON 
 
 
+<br>
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-## EL CONCEPTO DE DIFERENCIAL 5 Semestre 
-El concepto de diferencial se basa en la derivada de una función y nos permite introducirlo como  la operación inversa a la integración. Representa el cambio que se da en una función $y=f(x)$ respecto a cambios en la variable independiente. 
-
---------  ----------------------- --------------------
-Keyword   Text                    ![](/home/ramon/Documents       Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg){width="100" align="center"}
---------  ----------------------- --------------------
-red       Sunsets, apples, and    ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg){width="100" align="center"}
-          other red or reddish
-          things.
-
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
-
-
-| Función |  Derivada|  Diferencial | 
-|:---:|:---:|:---:|
+| Item | Descripción|  Diferencial | Precio |
+|:---|:---:|:---:|---:|
 |  **Deck especial** | $y'=2x$ | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg){width="100" align="center"} |
 |  $y=x^{2} - 1$ |  ${{dy} \over {dx}} =2x$ | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/th.jpeg){width="100" align="right"}  |
 
