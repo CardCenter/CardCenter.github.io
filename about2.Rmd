@@ -1,7 +1,7 @@
 ---
 title: "Yu-Gi-Oh! TCG"
 ---
-![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugioh25h.jpg){width="100%" align="center"}  
+![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugioh25h.jpg){width="130%" align="center"}  
 **Esta pagína es informativa, actualizada al dia 28 de Septiembre de 2021**
 
 <br>
