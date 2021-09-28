@@ -15,8 +15,8 @@ title: "Yu-Gi-Oh! TCG"
 
 | Item | Descripción| Precio | Stock |
 |:---|:---:|:---:|---:|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tinempoleon.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugideckcodebreaker.jpeg){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugideckcyberselink.jpeg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugideckorderofspellcasters.jpg){width="110" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
