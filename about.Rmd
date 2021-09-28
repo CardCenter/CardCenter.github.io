@@ -13,9 +13,10 @@ title: "Pokemon TCG"
 
 <br>
 
-| Item | Descripción|  Diferencial | Precio |
+| Item | Descripción| Precio | Stock |
 |:---|:---:|:---:|---:|
-|  **Deck especial** | $y'=2x$ | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/deckyugi.jpeg){width="100" align="center"} |
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | Galarian Rapidash V Box  | \$ 450 |  $\color{green}{\text{DISPONIBLE}}$ |
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"}  | V Strikers Tin Tyranitar V | \$ 450 |  $\color{green}{\text{DISPONIBLE}}$ |
 |  $y=x^{2} - 1$ |  ${{dy} \over {dx}} =2x$ | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/th.jpeg){width="100" align="right"}  |
 
 
