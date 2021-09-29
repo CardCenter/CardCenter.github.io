@@ -17,8 +17,11 @@ title: "Pokemon TCG"
 |:---|:---:|:---:|---:|
 | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/empoleontin.jpg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> \$ 1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies 1 ETB | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies 2 ETB | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 
 <footer class="article-footer">
