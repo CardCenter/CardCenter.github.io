@@ -24,7 +24,7 @@ title: "Pokemon TCG"
 | ![](~/proycc/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/proycc/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/proycc/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| <br> ![](~/proycc/figure-html/swsh7battle.jpg){width="104" align="center"} | <br> SW&SH Battle Stadium| <br> IN | <br> \$1280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/proycc/figure-html/swsh7battle.jpg){width="104" align="center"} | <br> SW&SH Battle Stadium| <br> IN | <br> \$1280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 
 
