@@ -17,6 +17,6 @@ title: "Yu-Gi-Oh! TCG"
 |:---|:---:|:---:|---:|
 | ![](~/proycc/figure-html/deckcodebreaker.jpg){width="100" align="center"}  | <br> Codebreaker Deck | <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/proycc/figure-html/deckcyb.png){width="100" align="center"} | <br> Cyberse Link Deck| <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/yugideckorderofspellcasters.jpg){width="110" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/proycc/figure-html/deckorder.jpg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> \$ 350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/Documents Rm/ccproject/CardCenter.github.io/index_files/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
