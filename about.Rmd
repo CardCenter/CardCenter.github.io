@@ -14,7 +14,7 @@ title: "Pokemon TCG"
 <br>
 
 | Item | Descripción| Idioma |Precio | Stock |
-|:---|:---:|:---:|---:|
+|:---|:---:|:---:|---:|---:|
 | ![](/home/ramon/CardCenter.github.io/index_files/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/CardCenter.github.io/index_files/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](/home/ramon/CardCenter.github.io/index_files/figure-html/empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
