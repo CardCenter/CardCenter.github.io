@@ -24,19 +24,3 @@ title: "Pokemon TCG"
 | ![](~/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/CardCenter.github.io/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-=======
-| ![](~/proycc/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/proycc/figure-html/swsh7battle.jpg){width="104" align="center"} | <br> SW&SH Battle Stadium| <br> IN | <br> \$1280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
->>>>>>> b111c2a7d311a05afa87c7d61ee64f47abe17c19
-
-
-
-
