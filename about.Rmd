@@ -2,7 +2,7 @@
 title: "Pokemon TCG"
 ---
 ![](~/CardCenter.github.io/figure-html/pokemon25h.jpg){width="100%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 03 de octubre de 2021**
+**Esta pagína es informativa, actualizada al dia 03 de noviembre de 2021**
 
 <br>
 
