@@ -2,6 +2,9 @@
 title: "Card Center"
 ---
 
+![](~/nvogit/CardCenter.github.io/figure-html/pokeBS.jpg){width="100%" align="center"}  
+
+
 Hola, Card!
 
 Card Center fue fundado en 2000 como un proyecto para importar y distribuir los mejores tcg's, pronto nos convertimos en una empresa y Gracias a Ti nos hemos dado a conocer alrededor de Mexico, pricipalmente en la Peninsula de Yucatán.
