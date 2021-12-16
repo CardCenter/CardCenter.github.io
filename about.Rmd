@@ -26,3 +26,19 @@ Los precios pueden variar así como las existencias sin previo aviso.
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
+<br>
+
+## POKEMON 
+
+
+<br>
+
+| Item | Descripción| Idioma |Precio | Stock |
+|:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
