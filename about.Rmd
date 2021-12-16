@@ -2,7 +2,7 @@
 title: "Pokemon TCG"
 ---
 ![](~/CardCenter.github.io/figure-html/pokemon25h.jpg){width="100%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 03 de noviembre de 2021**
+**Esta pagína es informativa, actualizada al dia 15 de diciembre de 2021**
 <br>
 Los precios pueden variar así como las existencias sin previo aviso.
 
@@ -17,12 +17,12 @@ Los precios pueden variar así como las existencias sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/CardCenter.github.io/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html//empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/CardCenter.github.io/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
