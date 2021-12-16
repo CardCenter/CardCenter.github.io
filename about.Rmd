@@ -5,6 +5,8 @@ title: "Pokemon TCG"
 **Esta pagína es informativa, actualizada al dia 16 de diciembre de 2021**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
+<br>
+**Dudas ¿? comunicate con nosotros por WhatsApp 9831030500**
 
 
 
@@ -21,6 +23,8 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/dragoniteV.jpg){width="100" align="center"}  | <br> Dragonite V Box | <br> ES | <br> \$420 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/hoopaV.jpg){width="103" align="center"}  | <br> Hoopa V Box  | <br> ES | <br> \$440 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/dracelebrations.jpg){width="110" align="center"}  | <br> Celebrations Dragapult | <br> ES | <br> \$480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/rapidash.png){width="100" align="center"}  | <br> Galarian Rapidash V Box  | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pincelebrations.png){width="100" align="center"}  | <br> Celebrations Deluxe Pin | <br> ES | <br> \$480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
