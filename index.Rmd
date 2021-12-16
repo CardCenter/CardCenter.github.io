@@ -14,7 +14,7 @@ Hemos estado en el negocio del 2000-2009 y actualmente despues de un breve perí
 
 <br>
 
-![](~/nvogit/CardCenter.github.io/figure-html/boostersBS.png){width="80%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/boostersBS.png){width="100%" align="left"}  
 <br>
 
-![](~/nvogit/CardCenter.github.io/figure-html/boostersES.png){width="80%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/boostersES.png){width="100%" align="center"}  
