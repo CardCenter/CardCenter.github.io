@@ -41,14 +41,14 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbfusionstrike.jpg){width="100" align="center"} | <br> Fusion Strike ETB | <br> ES | <br> \$960 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbfusionstrike.jpg){width="100" align="center"} | <br> Fusion Strike ETB | <br> ES | <br> \$960 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$890 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> ES | <br> \$1080 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$890 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingumbreon.jpg){width="100" align="center"} | <br> Evolving Skies E ETB | <br> IN | <br> \$890 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbbrilliantstars.png){width="100" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbshinningfates.jpg){width="104" align="center"} | <br> Shinning Fates ETB | <br> IN | <br> \$1600 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbbrilliantstars.png){width="100" align="center"} | <br> Brilliant Star ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 <br>
 
@@ -61,7 +61,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/tiranytartin.jpg){width="100" align="center"} | <br> V Strikers Tin Tyranitar V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/empoleontin2.jpeg){width="100" align="center"} | <br> V Strikers Tin Empoleon V | <br> ES | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/trainerkitalola.jpeg){width="104" align="center"} | <br> Trainer Kit Alola Raichu| <br> IN | <br> \$280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
@@ -77,7 +77,8 @@ Los precios así como las existencias pueden variar sin previo aviso.
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/esbts.jpg){width="100" align="center"} | <br> Evolving Skies BS | <br> ES | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/fsbts.jpg){width="100" align="center"} | <br> Fusion Strike BS | <br> ES | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/fsbts.jpg){width="100" align="center"} | <br> Fusion Strike BS | <br> ES | <br> \$1290 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/bsbts.jpg){width="100" align="center"} | <br> Brilliant Star BS | <br> ES | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 <br>
 
@@ -93,7 +94,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 | ![](~/nvogit/CardCenter.github.io/figure-html/CRbb.jpg){width="100" align="center"} | <br> Chilling Reign BB | <br> IN | <br> \$2390 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$2290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/FSbb.jpg){width="100" align="center"} | <br> Fusion Strike BB | <br> IN | <br> \$2490 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 
 <br>
 
