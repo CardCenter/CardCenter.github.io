@@ -53,7 +53,6 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbdarkness.jpg){width="102" align="center"} | <br> Darkness Ablaze ETB | <br> ES | <br> \$960 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> ES | <br> \$1080 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
