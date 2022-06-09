@@ -2,7 +2,7 @@
 title: "Pokemon TCG"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/pokemon25h.jpg){width="100%" align="center"}  
-**Esta pagína es informativa, actualizada al día 06 de mayo de 2022**
+**Esta pagína es informativa, actualizada al día 03 de junio de 2022**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
@@ -104,9 +104,9 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$2690 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$2790 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/FSbb.jpg){width="100" align="center"} | <br> Fusion Strike BB | <br> IN | <br> \$2590 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 
 <br>
 
