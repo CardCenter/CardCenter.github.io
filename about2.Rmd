@@ -34,7 +34,7 @@ title: "Yu-Gi-Oh! TCG"
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="100" align="center"} | <br> Duel Devastator | <br> IN | <br> \$890 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="100" align="center"} | <br> Duel Power | <br> IN | <br> \$1200 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="100" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="100" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 

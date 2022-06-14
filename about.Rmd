@@ -1,8 +1,9 @@
 ---
 title: "Pokemon TCG"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/pokemon25h.jpg){width="100%" align="center"}  
-**Esta pagína es informativa, actualizada al día 03 de junio de 2022**
+![](~/nvogit/CardCenter.github.io/figure-html/swsh10pres.png){width="100%" align="center"}  
+<br>
+**Esta pagína es informativa, actualizada al día 13 de junio de 2022**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
