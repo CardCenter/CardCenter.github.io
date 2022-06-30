@@ -9,3 +9,5 @@ navbar:
       href: about.html
     - text: "Yu-Gi-Oh!"
       href: about2.html
+    - text: "Magic"
+      href: about3.html

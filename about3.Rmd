@@ -1,7 +1,7 @@
 ---
 title: "Magic The Gathering"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/yugioh25h.jpg){width="130%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/magic_MTG.jpg){width="130%" align="center"}  
 **Esta pagína es informativa, actualizada al dia 02 de febrero de 2022**
 
 <br>
@@ -15,7 +15,7 @@ title: "Magic The Gathering"
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/deckcodebreaker.jpg){width="100" align="center"} | <br> Codebreaker Deck | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDD.jpeg){width="100" align="center"} | <br> Codebreaker Deck | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/deckcyb.png){width="100" align="center"} | <br> Cyberse Link Deck | <br> IN | <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html//deckorder.jpg){width="100" align="center"} | <br> Order of Spellcasters Deck | <br> IN | <br> \$ 580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/wavedeck.png){width="100" align="center"} | <br> Wave of Light Deck | <br> IN | <br> \$ 350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
