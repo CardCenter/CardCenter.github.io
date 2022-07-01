@@ -34,7 +34,26 @@ title: "Yu-Gi-Oh! TCG"
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="100" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="100" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/difo-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1850 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/liov-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="110" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="110" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
+<br>
+
+<br>
+
+## ACCESORIOS
+
+<br>
+
+| Item | Descripción| Idioma |Precio | Stock |
+|:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/tri-mat.jpg){width="100" align="center"} | <br> ALBAZ ECCLESIA TRI MAT | <br> IN | <br> \$180 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/kuribo-mat.jpg){width="100" align="center"} | <br> KURIBO MAT | <br> IN | <br> \$120 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/micasGods.jpg){width="70" align="center"} | <br> MICAS DIOSES EGIPCIOS | <br> IN | <br> \$150 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/micasBlossom.jpg){width="70" align="center"} | <br> MICAS ASH BLOSSOM | <br> IN | <br> \$130 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/carpetaGods.jpg){width="100" align="center"} | <br> CARPETA DIOSES YUGIOH! | <br> IN | <br> \$350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
+<br>
 

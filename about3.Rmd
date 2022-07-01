@@ -18,7 +18,10 @@ title: "Magic The Gathering"
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDD.jpeg){width="105" align="center"} | <br> COMMANDER LEGENDS: CLB BUNDLE | <br> IN | <br> \$ 1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtgstarterkit2022.jpg){width="100" align="center"} | <br> Starter KIT 2022 | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/bfb_deck_party.png){width="90" align="center"} | <br> COMMANDER LEGENDS: PARTY TIME COMMANDER DECK | <br> IN | <br> \$ 1100 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-
+| ![](~/nvogit/CardCenter.github.io/figure-html/bfb_deck_mind.png){width="90" align="center"} | <br> COMMANDER LEGENDS: MIND FLAYARRRS COMMANDER DECK | <br> IN | <br> \$ 950 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/bfb_deck_draconic.png){width="90" align="center"} | <br> COMMANDER LEGENDS: DRACONIC DISSENT COMMANDER DECK | <br> IN | <br> \$ 1100 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/bfb_deck_exit.png){width="90" align="center"} | <br> COMMANDER LEGENDS: EXIT FROM EXILE COMMANDER DECK | <br> IN | <br> \$ 1000 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/dnd-dragon.jpg){width="120" align="center"} | <br> D&D POWER BLACK DRAGON | <br> IN | <br> \$ 350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 <br>
 
