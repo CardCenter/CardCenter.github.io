@@ -2,7 +2,7 @@
 title: "Yu-Gi-Oh! TCG"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/yugioh25h.jpg){width="130%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 02 de febrero de 2022**
+**Esta pagína es informativa, actualizada al dia 29 de junio de 2022**
 
 <br>
 
@@ -17,10 +17,10 @@ title: "Yu-Gi-Oh! TCG"
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/deckcodebreaker.jpg){width="100" align="center"} | <br> Codebreaker Deck | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/deckcyb.png){width="100" align="center"} | <br> Cyberse Link Deck | <br> IN | <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html//deckorder.jpg){width="100" align="center"} | <br> Order of Spellcasters Deck | <br> IN | <br> \$ 580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html//deckorder.jpg){width="100" align="center"} | <br> Order of Spellcasters Deck | <br> IN | <br> \$ 650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/wavedeck.png){width="100" align="center"} | <br> Wave of Light Deck | <br> IN | <br> \$ 350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/sacredeck.jpg){width="110" align="center"} | <br> Sacret Beats Deck | <br> IN | <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/rokketdeck.jpg){width="105" align="center"} | <br> Rokket Revolt Deck | <br> IN | <br> \$ 199 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/sacredeck.jpg){width="110" align="center"} | <br> Sacret Beats Deck | <br> IN | <br> \$ 350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/rokketdeck.jpg){width="105" align="center"} | <br> Rokket Revolt Deck | <br> IN | <br> \$ 250 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/obeliskdeck.jpg){width="110" align="center"} | <br> Egypcian God Deck Obelisk | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 <br>
