@@ -26,12 +26,12 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp1.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGPsp2.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp3.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp1.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGPsp2.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp3.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOpremium.jpeg){width="100" align="center"} | <br> Pokemon GO Premium Collection | <br> IN | <br> \$1350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pkmtool.jpg){width="100" align="center"} | <br> ToolKit 2022 | <br> IN | <br> \$650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/kleavor_vstar.jpeg){width="100" align="center"} | <br> Kleavor VStar | <br> IN | <br> \$820 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/kleavor_vstar.jpeg){width="100" align="center"} | <br> Kleavor VStar | <br> IN | <br> \$820 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pikachuVSF.jpg){width="100" align="center"} | <br> Pikachu V Shining Fates | <br> IN | <br> \$490 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/chestArceus.jpeg){width="100" align="center"} | <br> Arceus CHEST SPRING 2022 | <br> IN | <br> \$580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/arceusvfig.jpg){width="100" align="center"} | <br> Arceus Figure V Box | <br> IN | <br> \$680 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
