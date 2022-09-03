@@ -3,7 +3,7 @@ title: "Pokemon TCG"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/swsh10pres.png){width="100%" align="center"}  
 <br>
-**Esta pagína es informativa, actualizada al día 29 de junio de 2022**
+**Esta pagína es informativa, actualizada al día 29 de agosto de 2022**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
@@ -26,9 +26,6 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp1.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGPsp2.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOsp3.jpg){width="100" align="center"} | <br> Pokemon GO Special Collection | <br> IN | <br> \$650 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOpremium.jpeg){width="100" align="center"} | <br> Pokemon GO Premium Collection | <br> IN | <br> \$1350 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pkmtool.jpg){width="100" align="center"} | <br> ToolKit 2022 | <br> IN | <br> \$650 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/kleavor_vstar.jpeg){width="100" align="center"} | <br> Kleavor VStar | <br> IN | <br> \$820 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
@@ -114,7 +111,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$2790 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$2890 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/FSbb.jpg){width="100" align="center"} | <br> Fusion Strike BB | <br> IN | <br> \$2590 | <br> <font size="1"> $\color{GREEN}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 
