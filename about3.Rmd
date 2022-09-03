@@ -2,7 +2,7 @@
 title: "Magic The Gathering"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/dominaria11.jpeg){width="130%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 29 de junio de 2022**
+**Esta pagína es informativa, actualizada al dia 29 de agosto de 2022**
 
 <br>
 
