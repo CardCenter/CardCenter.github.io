@@ -1,7 +1,7 @@
 ---
 title: "Magic The Gathering"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/magic_MTG.jpg){width="130%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/dominaria11.jpeg){width="130%" align="center"}  
 **Esta pagína es informativa, actualizada al dia 29 de junio de 2022**
 
 <br>
@@ -15,7 +15,8 @@ title: "Magic The Gathering"
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleSNC.jpg){width="105" align="center"} | <br> Street of New Capenna | <br> IN | <br> \$ 820 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDU.jpg){width="105" align="center"} | <br> Dominaria United BUNDLE | <br> IN | <br> \$ 880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleSNC.jpg){width="105" align="center"} | <br> Street of New Capenna BUNDLE | <br> IN | <br> \$ 820 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDD.jpeg){width="105" align="center"} | <br> COMMANDER LEGENDS: CLB BUNDLE | <br> IN | <br> \$ 1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtgstarterkit2022.jpg){width="100" align="center"} | <br> Starter KIT 2022 | <br> IN | <br> \$ 220 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/bfb_deck_party.png){width="90" align="center"} | <br> COMMANDER LEGENDS: PARTY TIME COMMANDER DECK | <br> IN | <br> \$ 1100 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
