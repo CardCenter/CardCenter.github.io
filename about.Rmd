@@ -100,7 +100,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/lobts.jpg){width="100" align="center"} | <br> Lost Origin BS | <br> IN | <br> \$1190 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/lobts.jpg){width="100" align="center"} | <br> Lost Origin BS | <br> IN | <br> \$1240 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/esbts.jpg){width="100" align="center"} | <br> Evolving Skies BS | <br> IN | <br> \$1580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/bsbts.jpg){width="100" align="center"} | <br> Brilliant Star BS | <br> IN | <br> \$1290 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 
@@ -115,7 +115,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$3380 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$3680 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/FSbb.jpg){width="100" align="center"} | <br> Fusion Strike BB | <br> IN | <br> \$2590 | <br> <font size="1"> $\color{GREEN}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 
