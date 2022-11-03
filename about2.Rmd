@@ -36,7 +36,7 @@ title: "Yu-Gi-Oh! TCG"
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/difo-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1850 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/liov-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="110" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="110" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1590 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="110" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 
 <br>
