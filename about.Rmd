@@ -1,9 +1,9 @@
 ---
 title: "Pokemon TCG"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/swsh11.jpg){width="100%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/swsh12.jpg){width="100%" align="center"}  
 <br>
-**Esta pagína es informativa, actualizada al día 01 de noviembre de 2022**
+**Esta pagína es informativa, actualizada al día 18 de noviembre de 2022**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
@@ -26,6 +26,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/chari2.jpg){width="100" align="center"} | <br> Charizard ULTRA PREMIUM COLLECTION | <br> IN | <br> \$2680 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/hisuianZo.jpg){width="100" align="center"} | <br> Hisuian Zoroark VSTAR PREMIUM COLLECTION | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/viri.jpg){width="100" align="center"} | <br> Vizirion V Box | <br> IN | <br> \$440 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/hc22.jpg){width="110" align="center"} | <br> Holiday Calendar | <br> IN | <br> \$1100 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -59,6 +60,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbsilver.png){width="100" align="center"} | <br> Silver Tempest ETB | <br> IN | <br> \$840 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etblost2.jpg){width="100" align="center"} | <br> Lost Origin ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbGO.jpeg){width="100" align="center"} | <br> Pokemon GO ETB | <br> IN | <br> \$1050 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbastral2.jpeg){width="100" align="center"} | <br> Astral Radiance ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -114,7 +116,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$4480 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/ESbb.jpg){width="100" align="center"} | <br> Evolving Skies BB | <br> IN | <br> \$4480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/FSbb.jpg){width="100" align="center"} | <br> Fusion Strike BB | <br> IN | <br> \$2590 | <br> <font size="1"> $\color{GREEN}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/BSbb.jpg){width="130" align="center"} | <br> Brilliant Stars BB | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{RED}{\text{NO DISPONIBLE}}$ </font>|
 
