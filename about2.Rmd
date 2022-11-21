@@ -1,14 +1,54 @@
 ---
 title: "Yu-Gi-Oh! TCG"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/yugioh25h.jpg){width="130%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 29 de junio de 2022**
+![](~/nvogit/CardCenter.github.io/figure-html/th2.jpg){width="130%" align="center"}  
+**Esta pagína es informativa, actualizada al dia 19 de noviembre de 2022**
 
 <br>
 
+
 <br>
 
-## Yu-Gi-Oh!
+## Special Boxes
+
+
+<br>
+
+| Item | Descripción| Idioma |Precio | Stock |
+|:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugimama.jpg){width="110" align="center"} | <br> Yu-GiOh Magnificent Mavens DISPLAY | <br> IN | <br> \$2480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/tincase.jpg){width="110" align="center"} | <br> Yu-GiOh Tin 2022 CASE | <br> IN | <br> \$4680 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi2ghost.jpg){width="110" align="center"} | <br> Yu-GiOh Ghost From the Past 2dn Hunting DISPLAY | <br> IN | <br> \$1880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugimame.jpg){width="110" align="center"} | <br> Yu-GiOh Magnificent Mavens | <br> IN | <br> \$490 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi2022tin.jpg){width="110" align="center"} | <br> Yu-GiOh Tin 2022 | <br> IN | <br> \$450 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugighost3.jpg){width="110" align="center"} | <br> Yu-GiOh Ghost From the Past 2dn Hunting | <br> IN | <br> \$390 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="110" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1590 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="110" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
+<br>
+
+
+
+
+<br>
+
+## Booster Boxes
+
+
+<br>
+
+| Item | Descripción| Idioma |Precio | Stock |
+|:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/difo-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1850 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/liov-bb.jpg){width="110" align="center"} | <br> Lighting Overdrive Booster Box | <br> IN | <br> \$1550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
+
+<br>
+
+
+<br>
+
+## Decks
 
 
 <br>
@@ -25,21 +65,6 @@ title: "Yu-Gi-Oh! TCG"
 
 <br>
 
-<br>
-
-## Boxes
-
-
-<br>
-
-| Item | Descripción| Idioma |Precio | Stock |
-|:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/difo-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1850 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/liov-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/yugiduel.jpg){width="110" align="center"} | <br> Duel Devastator | <br> IN | <br> \$1590 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/duelpower.jpg){width="110" align="center"} | <br> Duel Power | <br> IN | <br> \$1800 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-
-<br>
 
 <br>
 
