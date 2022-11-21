@@ -26,7 +26,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/paldia.jpg){width="100" align="center"} | <br> Palkia/Dialga Origin Form Vstar | <br> IN | <br> \$1760 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/paldia.jpg){width="120" align="center"} | <br> Palkia/Dialga Origin Form Vstar | <br> IN | <br> \$1760 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mewdeck.jpg){width="100" align="center"} | <br> MEW League Battle Deck | <br> IN | <br> \$620 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/chari2.jpg){width="100" align="center"} | <br> Charizard ULTRA PREMIUM COLLECTION | <br> IN | <br> \$2680 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/hisuianZo.jpg){width="100" align="center"} | <br> Hisuian Zoroark VSTAR PREMIUM COLLECTION | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -147,6 +147,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/arceusbinder.jpg){width="120" align="center"} | <br> Elite Series: Arceus 9-Pocket Zippered PRO-Binder | <br> IN | <br> \$1090 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/trove.jpg){width="100" align="center"} | <br> UP DELUXE GAMING TROVE | <br> IN | <br> \$1280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/micasMew.jpg){width="100" align="center"} | <br> Ultra-Pro Sleeves Mew | <br> IN | <br> \$180 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/portadeckmew.jpg){width="100" align="center"} | <br> Ultra-Pro Deck Box Mew | <br> IN | <br> \$120 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -164,7 +165,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithETB.png){width="100" align="center"} | <br> Crown Zenith ETB | <br> IN | <br> \$1040 | <br> <font size="1"> $\color{blue}{\text{22/01/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithCollect.jpg){width="100" align="center"} | <br> Crown Zenith Collection Set | <br> IN | <br> \$820 | <br> <font size="1"> $\color{blue}{\text{22/01/2023}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/zenithMiniTin.jpeg){width="100" align="center"} | <br> Crown Zenith Moni Tins Set | <br> IN | <br> \$940 | <br> <font size="1"> $\color{blue}{\text{21/02/2023}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/zenithMiniTin.jpeg){width="120" align="center"} | <br> Crown Zenith Moni Tins Set | <br> IN | <br> \$940 | <br> <font size="1"> $\color{blue}{\text{21/02/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithPika.jpeg){width="100" align="center"} | <br> Crown Zenith Pikachu VMax Collection | <br> IN | <br> \$180 | <br> <font size="1"> $\color{blue}{\text{21/02/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithTins.jpeg){width="120" align="center"} | <br> Crown Zenith Tins Set | <br> IN | <br> \$1560 | <br> <font size="1"> $\color{blue}{\text{21/03/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithPins.jpeg){width="100" align="center"} | <br> Crown Zenith Pin Collection Set | <br> IN | <br> \$940 | <br> <font size="1"> $\color{blue}{\text{18/04/2023}}$ </font>|
