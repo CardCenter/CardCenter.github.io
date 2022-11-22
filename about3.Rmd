@@ -1,8 +1,8 @@
 ---
 title: "Magic The Gathering"
 ---
-![](~/nvogit/CardCenter.github.io/figure-html/dominaria11.jpeg){width="130%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 01 de octubre de 2022**
+![](~/nvogit/CardCenter.github.io/figure-html/mtg1.jpg){width="130%" align="center"}  
+**Esta pagína es informativa, actualizada al dia 29 de octubre de 2022**
 
 <br>
 
@@ -15,6 +15,7 @@ title: "Magic The Gathering"
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/domisetbb.jpg){width="105" align="center"} | <br> Dominaria United Set Booster | <br> IN | <br> \$ 2990 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDU.jpg){width="105" align="center"} | <br> Dominaria United BUNDLE | <br> IN | <br> \$ 980 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleSNC.jpg){width="105" align="center"} | <br> Street of New Capenna BUNDLE | <br> IN | <br> \$ 820 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/mtg_bundleDD.jpeg){width="105" align="center"} | <br> COMMANDER LEGENDS: CLB BUNDLE | <br> IN | <br> \$ 1290 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
