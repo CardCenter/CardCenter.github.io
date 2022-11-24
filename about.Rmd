@@ -3,7 +3,7 @@ title: "Pokemon TCG"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/swsh12.jpg){width="100%" align="center"}  
 <br>
-**Esta pagína es informativa, actualizada al día 18 de noviembre de 2022**
+**Esta pagína es informativa, actualizada al día 24 de noviembre de 2022**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
@@ -35,7 +35,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 | ![](~/nvogit/CardCenter.github.io/figure-html/pikachu-v-union.jpg){width="100" align="center"} | <br> Pikachu V Union Box | <br> IN | <br> \$980 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/infernapeV.jpg){width="100" align="center"} | <br> Infernape V Box | <br> IN | <br> \$420 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/infernapeshow.jpg){width="100" align="center"} | <br> Infernape V Showcase 2022 | <br> IN | <br> \$320 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOpremium.jpeg){width="100" align="center"} | <br> Pokemon GO Premium Collection | <br> IN | <br> \$1280 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/pkmGOpremium.jpeg){width="100" align="center"} | <br> Pokemon GO Premium Collection | <br> IN | <br> \$1040 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pkmtool.jpg){width="100" align="center"} | <br> ToolKit 2022 | <br> IN | <br> \$600 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/pikachuVSF.jpg){width="100" align="center"} | <br> Pikachu V Shining Fates | <br> IN | <br> \$440 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/chestArceus.jpeg){width="100" align="center"} | <br> Arceus CHEST SPRING 2022 | <br> IN | <br> \$780 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -64,10 +64,10 @@ Los precios así como las existencias pueden variar sin previo aviso.
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbsilver.png){width="100" align="center"} | <br> Silver Tempest ETB | <br> IN | <br> \$840 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etblost2.jpg){width="100" align="center"} | <br> Lost Origin ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbGO.jpeg){width="100" align="center"} | <br> Pokemon GO ETB | <br> IN | <br> \$1050 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbastral2.jpeg){width="100" align="center"} | <br> Astral Radiance ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbvivid.jpg){width="100" align="center"} | <br> Vivid Voltage ETB | <br> IN | <br> \$900 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$950 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbGO.jpeg){width="100" align="center"} | <br> Pokemon GO ETB | <br> IN | <br> \$1040 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbastral2.jpeg){width="100" align="center"} | <br> Astral Radiance ETB | <br> IN | <br> \$820 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbvivid.jpg){width="100" align="center"} | <br> Vivid Voltage ETB | <br> IN | <br> \$810 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/etbchilling.jpg){width="100" align="center"} | <br> Chilling Reign ETB | <br> IN | <br> \$840 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> IN | <br> \$1700 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbcelebrations.jpg){width="100" align="center"} | <br> Celebrations ETB | <br> ES | <br> \$1180 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbevolvingespeon.jpg){width="100" align="center"} | <br> Evolving Skies U ETB | <br> IN | <br> \$1480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
