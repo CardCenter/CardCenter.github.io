@@ -27,7 +27,7 @@ Los precios así como las existencias pueden variar sin previo aviso.
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/paldia.jpg){width="100" align="center"} | <br> Palkia/Dialga Origin Form Vstar | <br> IN | <br> \$1760 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/mewdeck.jpg){width="100" align="center"} | <br> MEW League Battle Deck | <br> IN | <br> \$620 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/mewdeck.jpg){width="100" align="center"} | <br> MEW League Battle Deck | <br> IN | <br> \$640 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/chari2.jpg){width="100" align="center"} | <br> Charizard ULTRA PREMIUM COLLECTION | <br> IN | <br> \$2680 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/hisuianZo.jpg){width="100" align="center"} | <br> Hisuian Zoroark VSTAR PREMIUM COLLECTION | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/viri.jpg){width="100" align="center"} | <br> Vizirion V Box | <br> IN | <br> \$440 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
