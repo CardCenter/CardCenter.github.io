@@ -18,7 +18,9 @@ title: "Yu-Gi-Oh! Cartas Sueltas"
 |:---|:---:|:---:|---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/amazement_liov_en006.jpg){width="100" align="center"} | <br> Amazement Administrator Arlekino | <br> IN |<br> Secret Rare <br> 1st Edition | <br> LIOV-EN006 | <br> <font size="2"> \$130 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/ash_blossom_mp22_257.jpg){width="100" align="center"} | <br> Ash Blossom & Joyous Spring | <br> IN |<br> Prismatic Secret Rare <br> 1st Edition | <br> MP22-EN257 | <br> <font size="2"> \$380 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/atomic_stor_en043.jpg){width="100" align="center"} | <br> Atomic Scrap Dragon | <br> IN |<br> Ultimate Rare <br> Unlimited | <br> STOR-EN043 | <br> <font size="2"> \$80 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/benghalancer_liov_en048.jpg){width="100" align="center"} | <br> Benghalancer the Resurgent | <br> IN |<br> Secret Rare <br> 1st Edition | <br> LIOV-EN048 | <br> <font size="2"> \$40 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/malicious_rymp_en032.jpg){width="100" align="center"} | <br> Destiny Hero - Malicious | <br> IN |<br> Secret Rare <br> 1st Edition | <br> RYMP-EN034 | <br> <font size="2"> \$300 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dingirsu_dane_en038.jpg){width="100" align="center"} | <br> Dingirsu, the Orcust of the Evening Star | <br> ES |<br> Ultra Rare <br> Unlimited | <br> DANE-EN038 | <br> <font size="2"> \$300 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dragon_dark_fluid_chim_en037.jpg){width="100" align="center"} | <br> Firewall Dragon Darkfluid | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN037 | <br> <font size="2"> \$60 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/twin_ki_liov_en017.jpg){width="100" align="center"} | <br> Live Twin Ki-sikil Frost | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN017 | <br> <font size="2"> \$50 </font>|
@@ -29,10 +31,11 @@ title: "Yu-Gi-Oh! Cartas Sueltas"
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/mystic_dane_en064.jpg){width="100" align="center"} | <br> Mystic Mine | <br> IN |<br> Super Rare <br> Unlimited | <br> DANE-EN064 | <br> <font size="2"> \$250 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/springans_en041.jpg){width="100" align="center"} | <br> Springans Merrymaker | <br> IN |<br> Super Rare <br> 1st Edition | <br> LIOV-EN041 | <br> <font size="2"> \$20 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/starliege_chim_en014.jpg){width="100" align="center"} | <br> Starliege Seyfert | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/ra_sphere_cibr2.jpg){width="100" align="center"} | <br> The Winged Dragon of Ra - Sphere Mode | <br> IN |<br> Super Rare  <br> Limited | <br> CIBR-ENSE2 | <br> <font size="2"> \$290 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/masquerena_chim_en049.jpg){width="100" align="center"} | <br> I:P Masquerena | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/unchained_chim_en045.jpg){width="100" align="center"} | <br> Unchained Abomination  | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> CHIM-EN045 | <br> <font size="2"> \$120 </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dogmatika_liov_en032.jpg){width="100" align="center"} | <br> White Knight of Dogmatika | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN032 | <br> <font size="2"> \$40 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/soul_disaster_chim_en010.jpg){width="100" align="center"} | <br> Unchained Soul of Disaster | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN010 | <br> <font size="2"> \$60 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dogmatika_liov_en032.jpg){width="100" align="center"} | <br> White Knight of Dogmatika | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN032 | <br> <font size="2"> \$40 </font>|
 
 
 
