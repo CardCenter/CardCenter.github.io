@@ -62,6 +62,8 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/zenithETB.png){width="100" align="center"} | <br> Cenit Supremo ETB | <br> ES | <br> \$880 | <br> <font size="1"> $\color{GREEN}{\text{POR PEDIDO}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/zenithETB.png){width="100" align="center"} | <br> Crown Zenith ETB | <br> IN | <br> \$1020 | <br> <font size="1"> $\color{GREEN}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbsilver.png){width="100" align="center"} | <br> Silver Tempest ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etblost2.jpg){width="100" align="center"} | <br> Lost Origin ETB | <br> IN | <br> \$880 | <br> <font size="1"> $\color{red}{\text{NO DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/etbGO.jpeg){width="100" align="center"} | <br> Pokemon GO ETB | <br> IN | <br> \$1040 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
@@ -164,7 +166,6 @@ Los precios así como las existencias pueden variar sin previo aviso.
 
 | Item | Descripción| Idioma |Precio* | Fecha* |
 |:---|:---:|:---:|---:|---:|
-| ![](~/nvogit/CardCenter.github.io/figure-html/zenithETB.png){width="100" align="center"} | <br> Crown Zenith ETB | <br> IN | <br> \$1040 | <br> <font size="1"> $\color{blue}{\text{22/01/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithCollect.jpg){width="100" align="center"} | <br> Crown Zenith Collection Set | <br> IN | <br> \$820 | <br> <font size="1"> $\color{blue}{\text{22/01/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithMiniTin.jpeg){width="120" align="center"} | <br> Crown Zenith Moni Tins Set | <br> IN | <br> \$940 | <br> <font size="1"> $\color{blue}{\text{21/02/2023}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/zenithPika.jpeg){width="100" align="center"} | <br> Crown Zenith Pikachu VMax Collection | <br> IN | <br> \$180 | <br> <font size="1"> $\color{blue}{\text{21/02/2023}}$ </font>|

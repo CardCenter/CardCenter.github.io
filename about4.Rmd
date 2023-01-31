@@ -1,0 +1,61 @@
+---
+title: "Yu-Gi-Oh! Cartas Sueltas"
+---
+![](~/nvogit/CardCenter.github.io/figure-html/th2.jpg){width="130%" align="center"}  
+**Esta pagína es informativa, actualizada al dia 19 de noviembre de 2022**
+
+<br>
+
+
+<br>
+
+## Cartas Sueltas
+
+
+<br>
+
+| Item | Descripción| Idioma | Rareza | Número | Precio |
+|:---|:---:|:---:|---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/amazement_liov_en006.jpg){width="100" align="center"} | <br> Amazement Administrator Arlekino | <br> IN |<br> Secret Rare <br> 1st Edition | <br> LIOV-EN006 | <br> <font size="2"> \$130 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/ash_blossom_mp22_257.jpg){width="100" align="center"} | <br> Ash Blossom & Joyous Spring | <br> IN |<br> Prismatic Secret Rare <br> 1st Edition | <br> MP22-EN257 | <br> <font size="2"> \$380 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/benghalancer_liov_en048.jpg){width="100" align="center"} | <br> Benghalancer the Resurgent | <br> IN |<br> Secret Rare <br> 1st Edition | <br> LIOV-EN048 | <br> <font size="2"> \$40 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dingirsu_dane_en038.jpg){width="100" align="center"} | <br> Dingirsu, the Orcust of the Evening Star | <br> ES |<br> Ultra Rare <br> Unlimited | <br> DANE-EN038 | <br> <font size="2"> \$300 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dragon_dark_fluid_chim_en037.jpg){width="100" align="center"} | <br> Firewall Dragon Darkfluid | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN037 | <br> <font size="2"> \$60 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/twin_ki_liov_en017.jpg){width="100" align="center"} | <br> Live Twin Ki-sikil Frost | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN017 | <br> <font size="2"> \$50 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/anemone_rira_en041.jpg){width="100" align="center"} | <br> Marincess Coral Anemone | <br> IN |<br> Secret Rare <br> Unlimited | <br> DANE-EN038 | <br> <font size="2"> \$450 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/mekk_knight_dane_en047.jpg){width="100" align="center"} | <br> Mekk-Knight Crusadia Avramax | <br> IN |<br> Secret Rare <br> Unlimited | <br> DANE-EN047 | <br> <font size="2"> \$550 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/monk_tenyi_rira_en043.jpg){width="100" align="center"} | <br> Monk of the Tenyi | <br> ES |<br> Rare <br> Unlimited | <br> RIRA-EN043 | <br> <font size="2"> \$50 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/springans_en041.jpg){width="100" align="center"} | <br> Springans Merrymaker | <br> IN |<br> Super Rare <br> 1st Edition | <br> LIOV-EN041 | <br> <font size="2"> \$20 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/starliege_chim_en014.jpg){width="100" align="center"} | <br> Starliege Seyfert | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/masquerena_chim_en049.jpg){width="100" align="center"} | <br> I:P Masquerena | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dogmatika_liov_en032.jpg){width="100" align="center"} | <br> White Knight of Dogmatika | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN032 | <br> <font size="2"> \$40 </font>|
+
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+## Booster Boxes
+
+
+<br>
+
+| Item | Descripción| Idioma |Precio | Stock |
+|:---|:---:|:---:|---:|---:|
+| ![](~/nvogit/CardCenter.github.io/figure-html/difo-bb.jpg){width="110" align="center"} | <br> Dimension Force Booster Box | <br> IN | <br> \$1850 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/liov-bb.jpg){width="110" align="center"} | <br> Lighting Overdrive Booster Box | <br> IN | <br> \$1550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+
+
+<br>
+
+
+<br>
+
+
+
