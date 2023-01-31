@@ -23,12 +23,17 @@ title: "Yu-Gi-Oh! Cartas Sueltas"
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dragon_dark_fluid_chim_en037.jpg){width="100" align="center"} | <br> Firewall Dragon Darkfluid | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN037 | <br> <font size="2"> \$60 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/twin_ki_liov_en017.jpg){width="100" align="center"} | <br> Live Twin Ki-sikil Frost | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN017 | <br> <font size="2"> \$50 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/anemone_rira_en041.jpg){width="100" align="center"} | <br> Marincess Coral Anemone | <br> IN |<br> Secret Rare <br> Unlimited | <br> DANE-EN038 | <br> <font size="2"> \$450 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/megarock_dragon_tlm_en015.jpg){width="100" align="center"} | <br> Megarock Dragon | <br> IN |<br> Ultimate Rare <br> 1st Edition | <br> TLM-EN015 | <br> <font size="2"> \$990 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/mekk_knight_dane_en047.jpg){width="100" align="center"} | <br> Mekk-Knight Crusadia Avramax | <br> IN |<br> Secret Rare <br> Unlimited | <br> DANE-EN047 | <br> <font size="2"> \$550 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/monk_tenyi_rira_en043.jpg){width="100" align="center"} | <br> Monk of the Tenyi | <br> ES |<br> Rare <br> Unlimited | <br> RIRA-EN043 | <br> <font size="2"> \$50 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/mystic_dane_en064.jpg){width="100" align="center"} | <br> Mystic Mine | <br> IN |<br> Super Rare <br> Unlimited | <br> DANE-EN064 | <br> <font size="2"> \$250 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/springans_en041.jpg){width="100" align="center"} | <br> Springans Merrymaker | <br> IN |<br> Super Rare <br> 1st Edition | <br> LIOV-EN041 | <br> <font size="2"> \$20 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/starliege_chim_en014.jpg){width="100" align="center"} | <br> Starliege Seyfert | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/masquerena_chim_en049.jpg){width="100" align="center"} | <br> I:P Masquerena | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> CHIM-EN014 | <br> <font size="2"> \$600 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/unchained_chim_en045.jpg){width="100" align="center"} | <br> Unchained Abomination  | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> CHIM-EN045 | <br> <font size="2"> \$120 </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/dogmatika_liov_en032.jpg){width="100" align="center"} | <br> White Knight of Dogmatika | <br> IN |<br> Ultra Rare <br> 1st Edition | <br> LIOV-EN032 | <br> <font size="2"> \$40 </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/yugi_singles/soul_disaster_chim_en010.jpg){width="100" align="center"} | <br> Unchained Soul of Disaster | <br> IN |<br> Secret Rare <br> 1st Edition | <br> CHIM-EN010 | <br> <font size="2"> \$60 </font>|
+
 
 
 
