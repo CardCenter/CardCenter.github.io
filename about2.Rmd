@@ -17,7 +17,7 @@ title: "Yu-Gi-Oh! TCG"
 | Item | Descripción| Idioma |Precio | Stock |
 |:---|:---:|:---:|---:|---:|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugimama.jpg){width="110" align="center"} | <br> Yu-GiOh Magnificent Mavens DISPLAY | <br> IN | <br> \$2580 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
-| ![](~/nvogit/CardCenter.github.io/figure-html/tincase.jpg){width="110" align="center"} | <br> Yu-GiOh Tin 2022 CASE | <br> IN | <br> \$4880 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
+| ![](~/nvogit/CardCenter.github.io/figure-html/tincase.jpg){width="110" align="center"} | <br> Yu-GiOh Tin 2022 CASE | <br> IN | <br> \$4980 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi2ghost.jpg){width="110" align="center"} | <br> Yu-GiOh Ghost From the Past 2dn Hunting DISPLAY | <br> IN | <br> \$2080 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugimame.jpg){width="110" align="center"} | <br> Yu-GiOh Magnificent Mavens | <br> IN | <br> \$550 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
 | ![](~/nvogit/CardCenter.github.io/figure-html/yugi2022tin.jpg){width="110" align="center"} | <br> Yu-GiOh Tin 2022 | <br> IN | <br> \$480 | <br> <font size="1"> $\color{green}{\text{DISPONIBLE}}$ </font>|
