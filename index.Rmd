@@ -2,7 +2,7 @@
 title: "Card Center"
 ---
 
-![](~/nvogit/CardCenter.github.io/figure-html/swsh9pres.png){width="100%" align="center"}  
+![](~/nvogit/CardCenter.github.io/figure-html/pkm.jpg){width="100%" align="center"}  
 
 
 Hola, Card!
