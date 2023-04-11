@@ -2,7 +2,7 @@
 title: "Magic The Gathering"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/mtg1.jpg){width="130%" align="center"}  
-**Esta pagína es informativa, actualizada al dia 29 de octubre de 2022**
+**Esta pagína es informativa, actualizada al dia 29 de enero de 2023**
 
 <br>
 
