@@ -3,7 +3,7 @@ title: "Pokemon TCG"
 ---
 ![](~/nvogit/CardCenter.github.io/figure-html/scarlet.jpg){width="100%" align="center"}  
 <br>
-**Esta pagína es informativa, actualizada al día 04 de enero de 2023**
+**Esta pagína es informativa, actualizada al día 04 de febrero de 2023**
 <br>
 Los precios así como las existencias pueden variar sin previo aviso.
 <br>
