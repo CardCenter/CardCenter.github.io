@@ -1,332 +1,507 @@
 <!DOCTYPE html>
-
-<html>
+<html lang="es">
 
 <head>
-
-<meta charset="utf-8" />
-<meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-
-
-
-
-<title>Card Center</title>
-
-<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
-<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<style>h1 {font-size: 34px;}
-       h1.title {font-size: 38px;}
-       h2 {font-size: 30px;}
-       h3 {font-size: 24px;}
-       h4 {font-size: 18px;}
-       h5 {font-size: 16px;}
-       h6 {font-size: 12px;}
-       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
-       pre:not([class]) { background-color: white }</style>
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
-
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
-
-
-
-
-
-
-
-
-
-<style type = "text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-img {
-  max-width:100%;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-.html-widget {
-  margin-bottom: 20px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-summary {
-  display: list-item;
-}
-details > summary > p:only-child {
-  display: inline;
-}
-pre code {
-  padding: 0;
-}
-</style>
-
-
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
-
-<!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
-<!-- code folding -->
-
-
-
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Center</title>
+    <link rel="shortcut icon" href="images/pokeball_icon.ico" />
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
+    <header class="header">
 
-<div class="container-fluid main-container">
+        <img class="bg" src="images/pk222.png" alt="">
+        <div class="menu container">
+            <a href="#" class="logo">CARD CENTER</a>
+            <input type="checkbox" id="menu">
+            <label for="menu">
+                <img src="images/menu.png" class="menu-icon" alt="">
+            </label>
+            <nav class="navbar">
+                <ul>
+                    <!-- <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Servicios</a></li> 
+                    <li><a href="#">Productos</a></li> -->
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </nav>
+            <!-- <div>
+                <ul>
+                    <li class="submenu">
+                        <img src="images/car.svg" id="img-carrito" alt="carrito">
+                        <div id="carrito">
+                            <table id="lista-carrito">
+                                <thead>
+                                    <tr>
+                                        <th>Imagen</th>
+                                        <th>Nombre</th>
+                                        <th>Precio</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>  
+                            <a href="#" title="Paga con Clip">
+                                <img src="https://prod-ses-email-templates-assets.s3.amazonaws.com/payment/pay-with-clip/button-logos/es/estandar/svg/naranja_hover_con_sombra.svg" alt="Logo Paga con Clip" />
+                                </a> 
+                            <br>
+                            <a href="#" id="vaciar-carrito" class="btn-3">Vaciar Carrito</a>
+                        </div>
+                    </li>
+                </ul>
+            </div> -->
 
+        </div>
 
+        <div class="header-content container">
 
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Card Center</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="about.html">Pokemon</a>
-</li>
-<li>
-  <a href="about2.html">Yu-Gi-Oh!</a>
-</li>
-<li>
-  <a href="about4.html">Cartas Yugi</a>
-</li>
-<li>
-  <a href="about3.html">Magic</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
-
-<div id="header">
-
-
-
-<h1 class="title toc-ignore">Card Center</h1>
-
-</div>
-
-
-<p><img src="figure-html/pkm.jpg" align="center" style="width:100.0%" /></p>
-<p>Hola, Card!</p>
-<p>Card Center fue fundado en 2000 como un proyecto para importar y distribuir los mejores tcg’s, pronto nos convertimos en una empresa y Gracias a Ti nos hemos dado a conocer alrededor de Mexico, pricipalmente en la Peninsula de Yucatán.</p>
-<p>Hemos estado en el negocio del 2000-2009 y actualmente después de un breve período de descanso empezamos de nuevo a partir del 2019.</p>
-<p><br></p>
-<p><img src="figure-html/boostersBS.png" align="left" style="width:100.0%" /><br />
-<br></p>
-<p><img src="figure-html/boostersES.png" align="center" style="width:100.0%" /></p>
+            <div class="header-txt">
+                <h1><span>CC-News</span><br>Proximos lanzamientos</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam ipsum doloribus iste
+                    dignissimos sed mollitia illo, corporis quos in tenetur rem aspernatur veniam
+                    similique modi ratione omnis accusamus
+                    dolorum eligendi!
 
 
 
 
-</div>
+                </p>
+                <!-- <a href="#" class="btn-1">Informacion</a> -->
+            </div>
+            <div class="header-img">
+                <img src="images/Fuecoco.png" alt="">
+            </div>
 
-<script>
+        </div>
 
-// add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
-}
-$(document).ready(function () {
-  bootstrapStylePandocTables();
-});
-
-
-</script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open');
-  });
-});
-</script>
-
-<!-- code folding -->
+    </header>
 
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 
+    <section class="breakfast container">
+
+        <h2><span class="txt-blanco">Most Wanted</span></h2>
+        <p>
+            Card Center (CC)te presenta las 10 cartas mas buscadas de la expansion <span
+                class="txt-escarlata">Scarlet</span><em> &</em><span class="txt-purpura">Violet</span>
+        </p>
+
+        <div class="breakfast-content">
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/miriam.png" alt="">
+                <h3>1.<br>Miriam 251/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom " src="images/miraidon.png" alt="">
+                <h3>2.<br>Miraidon ex 244/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/gardevoir.png" alt="">
+                <h3>3.<br>Gardevoir ex 245/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/koraidon.png" alt="">
+                <h3>4.<br>Koraidon ex<br>247/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/miriam238.png" alt="">
+                <h3>5.<br>Miriam 238/198</h3>
+            </div>
+
+        </div>
+
+        <div class="breakfast-content">
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/gyarados.png" alt="">
+                <h3>6.<br>Gyarados ex 225/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/ralts.png" alt="">
+                <h3>7.<br>Ralts 211/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/arcanine.png" alt="">
+                <h3>8.<br>Arcanine ex 224/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/nestball.png" alt="">
+                <h3>9.<br>Nest Ball 255/198</h3>
+            </div>
+
+            <div class="breakfast-1">
+                <img class="zoom" src="images/miraidonex.png" alt="">
+                <h3>10.<br>Miraidon ex 253/198</h3>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section class="info">
+
+        <img class="bg-2" src="images/pk222.png" alt="">
+        <div class="info-content container">
+
+            <div class="info-img">
+                <img src="images/sv01_logo.png" alt="">
+            </div>
+
+            <div class="info-txt">
+                <h2><span class="txt-escarlata">Scarlet</span><em> &</em><span class="txt-purpura">Violet</span></h2>
+                <p> La nueva expansión consta de 10 energias y 258 cartas. Entre las novedades encontramos las
+                    Teracristalizaciones y de nuevo las cartas <em>ex</em>. Las cuales recobran la mecánica original
+                    desarrollada por primera vez en la expansón Ruby & Sapphire del 2003.<br> Un dato curioso es que
+                    Ruby & Sapphire fue la primera expansión desarrollada por Pokemon Company para el continente americano. 
+                    Ya que antes las cartas Pokemon eran producidas por Wizards of the Coast. 
+                </p>
+                <!-- <a href="#" class="btn-1">Información</a> -->
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <main class="products container">
+
+        <h2>Productos</h2>
+
+        <div class="box-container" id="lista-1">
+
+            <div class="box">
+                <img class="zoom2" src="images/etb_sv01.png" alt="">
+                <div class="product-txt">
+                    <h3>Scarlet & Violet ETB</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/sv_bundle.png" alt="">
+                <div class="product-txt">
+                    <h3>Scarlet & Violet BUNDLE</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/zenithETB.png" alt="">
+                <div class="product-txt">
+                    <h3>Crown Zenith ETB</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/tin_cz_arti.png" alt="">
+                <div class="product-txt">
+                    <h3>Crown Zenith Tin</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/regieleki_box.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>CZ Regieleki V Box</h3>
+                    <p>Calidad Premium</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/mimikyuexbox2.jpg" alt="">
+                <div class="product-txt">
+                    <h3>Mimilyu ex Box</h3>
+                    <p>Calidad Premium</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/pika_cz.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>CZ Pikachu VMax</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/chari2.jpg" alt="">
+                <div class="product-txt">
+                    <h3>Cahrizard UPC</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/etbsilver.png" alt="">
+                <div class="product-txt">
+                    <h3>Silver Tempest ETB</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/palkiabox.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Palkia VStar Box</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/etbsilver.png" alt="">
+                <div class="product-txt">
+                    <h3>Silver Tempest ETB</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/palkiabox.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Palkia VStar Box</h3>
+                    <p>DISPONIBLE</p>
+                    <p class="btn-6">$880</p>
+                    
+                </div>
+            </div>
+
+
+
+        </div>
+
+        <div class="btn-2" id="load-more">Cargar Más</div>
+
+
+
+    </main>
+
+
+
+
+    <section class="info">
+
+        <div class="info-content container">
+
+            <div class="info-img">
+                <img src="images/yugi_logo2.png" alt="">
+            </div>
+
+            <div class="info-txt">
+                <h2><span class="txt-escarlata">Scarlet</span><em> &</em><span class="txt-purpura">Violet</span></h2>
+                <p> La nueva expansión consta de 10 energias y 258 cartas. Entre las novedades encontramos las
+                    Teracristalizaciones y de nuevo las cartas <em>ex</em>. Las cuales recuperan la mecánica original
+                    desarrollada por primera vez en la expansón Ruby & Sapphire del 2003.<br> Un dato curioso es que
+                    Ruby & Sapphire fue la primera expansión desarrollada por Pokemon Company para el continente americano. 
+                    Ya que antes las cartas Pokemon eran producidas por Wizards of the Coast. Los Pokémon ex evolucionan
+                    a partir de sus evoluciones previas normales. Esto es diferente a los Pokémon-EX de 2012 (en
+                    mayúsculas). Por lo cual no debes confundirlas cuando juegues.
+                </p>
+                <a href="#" class="btn-1">Información</a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+
+    <main class="products container">
+
+        <h2>Productos</h2>
+
+        <div class="box-container" id="lista-1">
+
+            <div class="box">
+                <img class="zoom2" src="images/etb_sv01.png" alt="">
+                <div class="product-txt">
+                    <h3>Scarlet & Violet ETB</h3>
+                    <p>9 Boosters Packs, 65 Sleeves, 7 Dados, 2 Marcadores, 1 Carta promo</p>
+                    <p class="precio">$960</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="1">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/sv_bundle.png" alt="">
+                <div class="product-txt">
+                    <h3>Scarlet & Violet BUNDLE</h3>
+                    <p>6 Boosters</p>
+                    <p class="precio">$200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="2">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/zenithETB.png" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$1200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="3">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img class="zoom2" src="images/tin_cz_arti.png" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$1550</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="4">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/mimikyuexbox2.jpg" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="5">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/pla2.png" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="6">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/pla3.png" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="7">Agregar al carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/pla4.png" alt="">
+                <div class="product-txt">
+                    <h3>Elisyum</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$200</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="8">Agregar al carrito</a>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="btn-2" id="load-more">Cargar Más</div>
+
+
+
+    </main>
+
+
+    <section class="app container">
+
+        <div class="app-txt">
+
+            <h2>Descarga nuestra app descubre ofertas</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur
+                adipisicing elit.
+                Deleniti cupiditate reiciendis beatae earum non
+                illo eos impedit, natus optio odit facere officiis
+                labore ipsam sint nisi sed.
+                Saepe, aliquam aut.
+            </p>
+            <div class="descarga">
+                <img src="images/store1.png" alt="">
+                <img src="images/store2.png" alt="">
+            </div>
+
+        </div>
+
+        <div class="app-img">
+            <img src="images/app.png" alt="">
+        </div>
+
+    </section>
+
+
+
+    <footer class="footer">
+
+        <div class="footer-content container">
+
+            <div class="link">
+                <h3>Lorem</h3>
+                <ul>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                </ul>
+            </div>
+
+            <div class="link">
+                <h3>Lorem</h3>
+                <ul>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                </ul>
+            </div>
+
+            <div class="link">
+                <h3>Lorem</h3>
+                <ul>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                    <li><a href="#">lorem</a></li>
+                </ul>
+            </div>
+
+            <div class="link">
+                <h3>Lorem</h3>
+                <div class="descarga">
+                    <img src="images/store1.png" alt="">
+                    <img src="images/store2.png" alt="">
+                </div>
+            </div>
+
+        </div>
+
+    </footer>
+
+    <script src="script.js"></script>
 </body>
+
 </html>
