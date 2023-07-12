@@ -40,7 +40,7 @@ body{
 
 .logo{
     font-size: 25px;
-    color: #ff9000;
+    color: #c24f0d;
     text-transform: uppercase;
     font-weight: 800;
 }
@@ -54,7 +54,7 @@ body{
     font-size: 18px;
     padding: 20px;
     font-weight: 600;
-    color: #ff9000;
+    color: #00f;
     display: block;
 }
 
@@ -105,7 +105,7 @@ th, td {
 }
 
 .borrar {
-    background-color: #ff9000;
+    background-color: rgba(216, 52, 216, 0);
     border-radius: 50%;
     padding: 5px 10px;
     text-decoration: none;
@@ -136,7 +136,7 @@ th, td {
 .header-txt h1 {
     font-size: 55px;
     line-height: 65px;
-    color: #1d1d1b;
+    color: #552277;
     margin-bottom: 35px;
 }
 
@@ -147,7 +147,7 @@ th, td {
 }
 
 .header-txt span {
-    color: #ffae00;
+    color: #6060b0;
     font-style: italic;
 }
 
@@ -165,6 +165,21 @@ th, td {
 
 .txt-blanco {
     color: #ffffff;
+    font-style: italic;
+}
+
+.txt-ghost {
+    color: #6060b0;
+    font-style: italic;
+}
+
+.txt-azul {
+    color: #00f;
+    font-style: italic;
+}
+
+.txt-negro2 {
+    color: #bd69e4;
     font-style: italic;
 }
 
@@ -190,7 +205,7 @@ th, td {
     display: inline-block;
     padding: 13px 45px;
     border-radius: 25px;
-    background-color: #ff9000;
+    background-color: #0000cd;
     font-size: 16px;
     color: #ffffff;
     text-transform: capitalize;
@@ -198,7 +213,7 @@ th, td {
 }
 
 .btn-1:hover {
-    background-color: #ef8700;
+    background-color: #0000cd;
 }
 
 .header-img {
@@ -212,7 +227,7 @@ th, td {
 }
 
 .header-img img {
-    width: 650px;
+    width: 600px;
 }
 
 .header-img2 img {
@@ -221,7 +236,7 @@ th, td {
 
 .breakfast {
     padding: 50px 20px;
-    background-image: url(/images/scorbunny.jpg);
+    background-image: url(/images/Ting.jpg);
 }
 
 
@@ -229,8 +244,9 @@ th, td {
 h2 {
     font-size: 45px;
     line-height: 55px;
-    color: #ff9000;
+    color: #552277;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 p {
@@ -238,6 +254,14 @@ p {
     color: #252424;
     margin-bottom: 45px;
     text-align: justify;
+    font-style: oblique;
+}
+
+p2 {
+    font-size: 18px;
+    color: #252424;
+    margin-bottom: 45px;
+    text-align: center;
     font-style: oblique;
 }
 
@@ -308,6 +332,13 @@ p {
     width: 50%;
 }
 
+.info-txt2 {
+    width: 50%;
+    text-align: center;
+    color: #ffffff;
+    font-style: italic;
+}
+
 
 .products {
     padding: 0 0 50px 0;
@@ -322,7 +353,7 @@ p {
 }
 
 .box {
-    border-top: 2px solid #ff9000;
+    border-top: 2px solid #6060b0;
     padding: 20px;
     border-radius: 15px;
     z-index: 1000;
@@ -334,7 +365,11 @@ p {
 .box:nth-child(1),
 .box:nth-child(2),
 .box:nth-child(3),
-.box:nth-child(4) {
+.box:nth-child(4),
+.box:nth-child(5),
+.box:nth-child(6),
+.box:nth-child(7),
+.box:nth-child(8) {
     display: inline-block;
 }
 
@@ -344,7 +379,7 @@ p {
 
 .product-txt h3 {
     font-size: 20px;
-    color: #ff9000;
+    color: #6060b0;
     margin-bottom: 5px;
 }
 
@@ -355,13 +390,13 @@ p {
 
 .precio {
     font-size: 20px;
-    color: #ff9000;
+    color: #89a313;
     text-align: center;
     font-style: normal;
 }
 
 .btn-2 {
-    background-color: #ff9000;
+    background-color: #6060B0;
     margin-top: 50px;
     display: inline-block;
     padding: 13px 15px;
@@ -373,25 +408,25 @@ p {
 }
 
 .btn-2:hover {
-    background-color: #ef8700;
+    background-color: #6060b0;
 }
 
 .btn-3 {
     display: inline-block;
     padding: 5px 25px;
-    background-color: #ff9000;
+    background-color: #852a7f;
     color: #ffffff;
     border-radius: 10px;
 }
 
 .btn-3:hover {
-    background-color: #ef8700;
+    background-color: #6060b0;
 }
 
 .btn-5 {
     display: inline-block;
     padding: 5px 25px;
-    background-color: #ffae00;
+    background-color: #6060b0;
     color: #ffffff;
     border-radius: 10px;
     background-image: url(/images/container_bg.png);
@@ -400,7 +435,7 @@ p {
 .btn-6 {
     display: inline-block;
     padding: 5px 25px;
-    background-color: #ff9000;
+    background-color: #4682B4;
     color: #ffffff;
     border-radius: 10px;
     font-style: normal;
@@ -437,7 +472,7 @@ p {
 
 .footer {
     padding: 50px 0;
-    background-color: #ff9000;
+    background-color: #6060b0;
     background-image: url(/images/container_bg.png);
 }
 
