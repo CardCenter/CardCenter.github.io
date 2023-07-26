@@ -240,17 +240,16 @@ th, td {
 .breakfast {
     padding: 50px 20px;
     background-image: url(/images/Ting.jpg);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .breakfast2 {
     display: block;
-    padding: 5px;
     /*background-image: url(/images/Ting.jpg);*/
     border: 4px solid rgb(106, 106, 224);
     padding: 1px;
     background-image: url(/images/container_bg.png);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 
