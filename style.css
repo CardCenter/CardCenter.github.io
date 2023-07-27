@@ -202,6 +202,21 @@ th, td {
     transform: scale(2.5); 
 }
 
+.zoom3 {
+    transition: transform .4s; 
+}
+ 
+.zoom3:hover {
+    transform: scale(2); 
+}
+
+.zoom4 {
+    transition: transform .4s; 
+}
+ 
+.zoom4:hover {
+    transform: scale(1.8); 
+}
 
 
 .btn-1 {
