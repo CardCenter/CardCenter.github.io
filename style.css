@@ -17,6 +17,7 @@ body{
     margin: 0 auto;
 }
 
+
 .header{
 
     display: flex;
@@ -265,6 +266,13 @@ th, td {
     padding: 1px;
     background-image: url(/images/container_bg.png);
     border-radius: 10px;
+}
+
+.container3{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 auto;
+    height: 60;
 }
 
 
