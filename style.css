@@ -8,18 +8,39 @@
     list-style: none;
 }
 
+.text101{
+    text-align: center;
+
+}
+
+.box101{
+    padding-left: 5%;
+    background-color:#777777;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 1px;
+    background-image: url(/images/container_bg.png);
+    border-radius: 10px 10px 0 0;
+
+}
+
+
+
 body{
     font-family: 'Poppins', sans-serif;
 }
 
 .container{
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
+
 }
 
 
 .header{
-
+ 
     display: flex;
     align-items: center;
     min-height: 60vh;
@@ -127,6 +148,7 @@ th, td {
     display: flex;
     align-items: center;
     background-image: url(/images/container_bg.png);
+
 }
 
 .header-txt {
@@ -170,7 +192,7 @@ th, td {
 }
 
 .txt-ghost {
-    color: #6060b0;
+    color: whitesmoke;
     font-style: italic;
 }
 
@@ -184,7 +206,7 @@ th, td {
     font-style: italic;
     font-size: 25px;
     line-height: 65px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
 }
 
 .zoom {
@@ -255,8 +277,8 @@ th, td {
 
 .breakfast {
     padding: 50px 20px;
-    background-image: url(/images/Ting.jpg);
-    border-radius: 10px;
+    background-image: url(/images/tunlu2.jpg);
+    border-radius: 0 0 10px 10px;
 }
 
 .breakfast2 {
@@ -266,10 +288,11 @@ th, td {
     padding: 1px;
     background-image: url(/images/container_bg.png);
     border-radius: 10px;
+    
 }
 
 .container3{
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 0 auto;
     height: 30;
@@ -415,7 +438,13 @@ p2 {
 .box:nth-child(5),
 .box:nth-child(6),
 .box:nth-child(7),
-.box:nth-child(8) {
+.box:nth-child(8), 
+.box:nth-child(9),
+.box:nth-child(10),
+.box:nth-child(11),
+.box:nth-child(12)
+
+    {
     display: inline-block;
 }
 

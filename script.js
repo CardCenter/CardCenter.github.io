@@ -1,5 +1,5 @@
 let loadMoreBtn =document.querySelector('#load-more');
-let currentItem = 8;
+let currentItem = 12;
 
 loadMoreBtn.onclick = () => {
 
