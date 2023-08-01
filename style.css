@@ -396,8 +396,8 @@ p2 {
 .info-content2 {
     display: flex;
     align-items: center;
-    padding-left: 1px;
-    padding-right: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
     /*background-color:#777777;*/
     max-width: 1600px;
     margin-left: auto;
