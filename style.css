@@ -8,10 +8,7 @@
     list-style: none;
 }
 
-.text101{
-    text-align: center;
 
-}
 
 .box101{
     padding-left: 5%;
@@ -21,7 +18,7 @@
     margin-right: auto;
     text-align: center;
     margin-bottom: 1px;
-    background-image: url(/images/container_bg.png);
+    background-image: url(/images/container_bg.png), linear-gradient(270deg, #191b1d 0%, #474e4f 50%, #191b1d 100%);
     border-radius: 10px 10px 0 0;
 
 }
@@ -191,6 +188,18 @@ th, td {
     font-style: italic;
 }
 
+.txt-ygo {
+    color: #160e0e;
+    font-style: normal;
+}
+
+.txt-ygo2 {
+    color: #fbf9f9;
+    font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .txt-ghost {
     color: whitesmoke;
     font-style: italic;
@@ -308,6 +317,7 @@ h2 {
     text-align: center;
 }
 
+
 prod {
     display: block;
     font-size: 45px;
@@ -383,6 +393,21 @@ p2 {
     align-items: center;
 }
 
+.info-content2 {
+    display: flex;
+    align-items: center;
+    padding-left: 1px;
+    padding-right: 25px;
+    /*background-color:#777777;*/
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1px;
+    /*background-image: url(/images/container_bg.png), linear-gradient(270deg, #191b1d 0%, #474e4f 50%, #191b1d 100%);*/
+    border-radius: 10px 10px 10px 10px;
+    background-image: url(/images/bkg_lostart.jpg);
+}
+
 .info-img {
     width: 50%;
     text-align: center;
@@ -408,6 +433,11 @@ p2 {
     font-style: italic;
 }
 
+.info-txt101 {
+    width: 50%;
+    color: #ffffff;
+}
+
 
 .products {
     padding: 0 0 50px 0;
@@ -426,8 +456,9 @@ p2 {
     padding: 20px;
     border-radius: 15px;
     z-index: 1000;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(9, 8, 8, 0.2);
     display: none;
+    background-color: #fbfcfe;
     background-image: url(/images/container_bg.png);
 }
 
