@@ -717,6 +717,10 @@ p2 {
         flex-direction: column;
     }
 
+    .info-content2 {
+        flex-direction: column;
+    }
+
     .info-img {
         width: 100%;
         text-align: center;
