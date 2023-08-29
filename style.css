@@ -172,7 +172,7 @@ th, td {
 }
 
 .txt-escarlata {
-    color: #9e2a22;
+    color: #da1304;
     font-style: italic;
     font-size: 18;
 }
@@ -219,6 +219,7 @@ th, td {
 
 .zoom {
     transition: transform .2s; 
+    border-radius: 2px;
 }
  
 .zoom:hover {
@@ -365,7 +366,7 @@ p2 {
 }
 
 .breakfast-1 h3 {
-    font-size: 18px;
+    font-size: 14px;
     color: #ffffff;
     font-weight: 600;
 }
@@ -653,6 +654,7 @@ p2 {
     .bg {
         display: none;
     }
+
 
     .header-content {
         padding: 100px 30px 30px 30px;
